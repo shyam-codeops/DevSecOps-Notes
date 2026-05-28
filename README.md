@@ -1,4 +1,4 @@
-# 🚀 DevOps Notes
+# 🚀 DevSecOps Notes
 
 Welcome to **DevOps Notes** — a collaborative repository created to document our learning journey, hands-on practice, and real-world concepts in DevOps, Cloud, Automation, and DevSecOps.
 
