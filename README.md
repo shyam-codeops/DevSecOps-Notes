@@ -43,7 +43,6 @@ This repository serves as a centralized knowledge base for storing useful notes,
 * 🧪 Dev/Test Environments
 * 📋 Troubleshooting & Root Cause Analysis
 * 🎯 Interview Preparation Notes
-* 📚 Certification Study Notes
 
 
 
