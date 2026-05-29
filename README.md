@@ -44,7 +44,7 @@ This repository serves as a centralized knowledge base for storing useful notes,
 * 📋 Troubleshooting & Root Cause Analysis
 * 🎯 Interview Preparation Notes
 * 📚 Certification Study Notes
-* 🚀 Real-World Use Cases & Labs
+
 
 
 ---
